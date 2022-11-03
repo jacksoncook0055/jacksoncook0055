@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jackson Cook
+- 🌱 I’m currently learning JavaScript and Html, an amateur in code working my way to become a developer!
+- 📫 If you'd like to contact me for anything, you can reach me at my email jacksoncook0055@gmail.com
